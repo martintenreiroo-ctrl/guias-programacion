@@ -366,7 +366,7 @@ No todos los lenguajes orientados a objetos tienen tipos primitivos. Lenguajes c
 ## 22. ¿En POO qué es un **tipo de dato enumerado**? ¿En Java, un tipo de dato enumerado es una clase? ¿Qué ventajas tienen en términos de encapsulación los enumerados en Java?
 
 ### Respuesta
-Un tipo de dato enumerado en POO es un tipo especial que define un conjunto limitado y fijo de valores posibles (como colores, direcciones o estados), y en Java un enum es realmente una clase especial cuyos valores son instancias únicas y controladas; esto mejora la encapsulación porque no se pueden crear valores nuevos fuera de los definidos, se oculta completamente la representación interna y la clase controla sus propios objetos, garantizando invariantes y evitando errores al usar valores no permitidos.
+Un tipo de dato enumerado en POO es un tipo especial que define un conjunto limitado y fijo de valores posibles (como colores, direcciones o estados), y en Java un enum es realmente una clase especial cuyos valores son instancias únicas y controladas; esto mejora la encapsulación porque no se pueden crear valores nuevos fuera de los definidos, se oculta completamente la representación interna y la clase controla sus propios objetos, garantizando invariantes y evitando errores al usar valores que no están permitidos.
 
 
 ## 23. Crea un tipo enumerado en Java que se llame `Mes`, con doce posibles instancias y que además proporcione métodos para obtener cuántos días tiene ese mes, el ordinal de ese mes en el año (1-12), empleando atributos privados y constructores del tipo enumerado.
