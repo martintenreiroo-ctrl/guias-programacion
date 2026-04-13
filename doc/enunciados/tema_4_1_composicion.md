@@ -64,6 +64,8 @@ Por favor, escribe en impersonal las respuestas.
 
 ### Respuesta
 
+
+
 ## 11. ¿Qué son las relaciones de composición "bidireccionales"? ¿Qué habría que hacer para implementar este tipo de relación en el ejemplo de `Profesor` y `Departamento`?
 
 ### Respuesta
